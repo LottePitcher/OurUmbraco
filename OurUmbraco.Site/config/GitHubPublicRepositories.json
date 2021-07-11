@@ -95,6 +95,13 @@
     "Owner": "umbraco",
     "Slug": "Package.Templates",
     "Name": "Package.Templates",
-	"InDashboard": false
+    "InDashboard": false
+  },
+  {
+    "Alias": "UI-Examples",
+    "Owner": "umbraco",
+    "Slug": "UI-Examples",
+    "Name": "UI-Examples",
+    "InDashboard": false
   }
 ]
